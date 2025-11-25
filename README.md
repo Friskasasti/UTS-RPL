@@ -20,3 +20,9 @@ c. Meningkatkan efesiensi, kedisiplinan dan produktivitas mahasiswa
 a. Manajemen jadwah kuliah (Tambah, ubah, apus)
 b. Manajemen daftar tugas (Tambah, ubah, hapus)
 c. Notifikasi pengingat sesuai waktu yang telah di atur
+
+## 4. Metode Pengembangan
+a. Analisis masalah & kebutuhan pengguna.
+b. Studi pustaka dan pengumpulan data (wawancara & observasi).
+c. Perancangan sistem menggunakan UML (Use Case, Activity Diagram, Class Diagram).
+d. Implementasi dan pengujian sistem.
